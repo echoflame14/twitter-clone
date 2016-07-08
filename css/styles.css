@@ -186,7 +186,7 @@ body {
 		width: 12px;
 		height: 13px;
 		display: inline-block;
-		vertical-align: text-top;
+		vertical-align: -top;
 		background-repeat: no-repeat;
 		background-image: url(https://abs.twimg.com/a/1379560497/t1/img/twitter_web_sprite_icons.png);
 	}
@@ -258,5 +258,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
